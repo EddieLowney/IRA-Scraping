@@ -15,7 +15,7 @@ from shapely.geometry import Point
 data = pd.read_excel("Grant Data.xlsx")
 
 # Google Maps API Key
-API_KEY = "AIzaSyAh-6QncUJq02SG-0w7-K8HRkiQaewQUlQ"  # Replace with your actual Google API key
+API_KEY = "REDACTED"  # Replace with your actual Google API key
 
 coordinate_list = []
 COORDINATE_VAL = 0
